@@ -25,4 +25,4 @@ List of Accounts:
 * bele3926 - abiybelew (https://github.com/abiybelew/Software-Engineering)
 * guzm3915 - Github: [kmanrulze](https://github.com/kmanrulze/CS350)
 * tcl394 - Teresa Carlson
-* MSTKELLY - Michael Kelly
+* jone2032 - [NikJones](https://github.com/njonesm8/Software-Engineering)
